@@ -1,5 +1,4 @@
-# Hello-Word
-Pruebas de repositorio v1 
+#Hola Mi primer Prueba
 
-Pruebas v2
-aprendiendo a utilizar y realizar cambios en github 
+Esto es muy agradabl  esperemos que esto que haga salga bien
+:=) 
